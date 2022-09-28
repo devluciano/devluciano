@@ -2,8 +2,10 @@
 
 
 - 🌱 Hoje Trabalho como Full Stack
+- 👯 Graduado em Gestão da Tecnologia da Informação
+- 🤔 Cursando 2ª Graduação em Engenharia de Software
 - 👯 Estudando Node.Js
-- 🤔 Linguagem principal PHP/laravel
+- 🤔 Atualmente Desenvolvedor Web - PHP/laravel/Java Script
 
 <div align="center">
   <a href="https://github.com/devluciano">
