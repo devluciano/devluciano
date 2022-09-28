@@ -5,14 +5,14 @@
 - 👯 Graduado em Gestão da Tecnologia da Informação
 - 🤔 Cursando 2ª Graduação em Engenharia de Software
 - 👯 Estudando Node.Js
-- 🤔 Atualmente Desenvolvedor Web - PHP/laravel/Java Script
+- 🤔 Atualmente Desenvolvedor Web - PHP / Laravel / Java Script
 
 <div align="center">
   <a href="https://github.com/devluciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devluciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluciano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<br>
 - 👯 Minhas skills!!
 
 <div style="display: inline_block"><br>
