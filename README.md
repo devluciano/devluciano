@@ -1,9 +1,9 @@
 ### Olá sou Luciano Silva 👋
 
 
-- 🌱 Hoje Trabalho como Full Stack...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 Hoje Trabalho como Full Stack
+- 👯 Estudando Node.Js
+- 🤔 Linguagem principal PHP/laravel
 
 <div align="center">
   <a href="https://github.com/devluciano">
