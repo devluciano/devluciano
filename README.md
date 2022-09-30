@@ -1,11 +1,11 @@
 ### Olá sou Luciano Silva 👋
 
 
-- 🌱 Hoje Trabalho como Full Stack
+- 🌱 Hoje Trabalho como Desenvolvedor Full Stack
 - 👯 Graduado em Gestão da Tecnologia da Informação
-- 🤔 Cursando 2ª Graduação em Engenharia de Software
+- 🤔 Cursando 2ª Graduação no Curso Bacharel em Engenharia de Software
 - 👯 Estudando Node.Js
-- 🤔 Atualmente Desenvolvedor Web - PHP / Laravel / Java Script
+- 🤔 Atualmente Desenvolvendo profissionalmente em: PHP / Laravel / Java Script
 
 <div align="center">
   <a href="https://github.com/devluciano">
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluciano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-### Minhas Skills 👋
+Minhas Skills 👋
 
 
 <div style="display: inline_block"><br>
