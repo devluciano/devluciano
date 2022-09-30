@@ -3,7 +3,7 @@
 
 - 🌱 Hoje Trabalho como Desenvolvedor Full Stack
 - 👯 Graduado em Gestão da Tecnologia da Informação
-- 🤔 Cursando 2ª Graduação no Curso Bacharel em Engenharia de Software
+- 🤔 Cursando 2ª Graduação no Curso Bacharelado em Engenharia de Software
 - 👯 Estudando Node.Js
 - 🤔 Atualmente Desenvolvendo profissionalmente em: PHP / Laravel / Java Script
 
