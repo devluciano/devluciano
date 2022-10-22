@@ -3,9 +3,9 @@
 
 - 🌱 Hoje Trabalho como Desenvolvedor Full Stack
 - 👯 Graduado em Gestão da Tecnologia da Informação
-- 🤔 Cursando 2ª Graduação no Curso Bacharelado em Engenharia de Software
+- 🤔 Cursando uma 2ª Graduação, Curso Bacharelado em Engenharia de Software
 - 👯 Estudando Node.Js
-- 🤔 Atualmente Desenvolvendo profissionalmente em: PHP / Laravel / Java Script
+- 🤔 Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel / Java Script
 
 <div align="center">
   <a href="https://github.com/devluciano">
@@ -22,7 +22,6 @@ Minhas Skills 👋
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=148&color=currentColor">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=148&color=currentColor">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
