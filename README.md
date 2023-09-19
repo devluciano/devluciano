@@ -1,7 +1,7 @@
 ### Olá sou Luciano Silva 👋
 
 
-- 🌱 Hoje Trabalho como Desenvolvedor Full Stack
+- 🌱 Hoje Trabalho como Desenvolvedor Web
 - 👯 Graduado em Gestão da Tecnologia da Informação
 - 🤔 Cursando 2ª Graduação, Curso Bacharelado em Engenharia de Software
 - 👯 Estudando C#
