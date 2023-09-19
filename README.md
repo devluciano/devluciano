@@ -4,7 +4,7 @@
 - 🌱 Hoje Trabalho como Desenvolvedor Web
 - 👯 Graduado em Gestão da Tecnologia da Informação
 - 🤔 Cursando 2ª Graduação, Curso Bacharelado em Engenharia de Software
-- 👯 Estudando C#
+- 👯 Estudando C# e Angular
 - 🤔 Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel / Java Script
 
 <div align="center">
