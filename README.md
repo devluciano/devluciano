@@ -30,7 +30,7 @@ Minhas Skills 👋
  
   
  
-<div> 
+<div> <br>
 
  
  <a href="https://discord.gg/lucianoinfo#1520" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
