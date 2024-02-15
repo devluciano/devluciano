@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluciano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-Minhas Skills 👋
+Minhas Hard Skills 👋
 
 
 <div style="display: inline_block"><br>
