@@ -4,8 +4,8 @@
 - 🌱 Hoje Trabalho como Desenvolvedor Web
 - 👯 Graduado em Gestão da Tecnologia da Informação
 - 🤔 Cursando 2ª Graduação, Curso Bacharelado em Engenharia de Software
-- 👯 Estudando C# e Angular
-- 🤔 Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel / Java Script
+- 👯 Estudando Flutter
+- 🤔 Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel - CakePhP - Wordpress / C# .Net / Angular / Tapy Script
 
 <div align="center">
   <a href="https://github.com/devluciano">
