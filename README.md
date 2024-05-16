@@ -5,7 +5,7 @@
 - 👯 Graduado em Gestão da Tecnologia da Informação
 - 🤔 Cursando 2ª Graduação, Curso Bacharelado em Engenharia de Software
 - 👯 Estudando Flutter
-- 🤔 Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel - CakePhP - Wordpress / C# .Net / Angular / TypeScript
+- 🤔 Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel - CakePhP - Wordpress / C# .Net framework / Angular / TypeScript
 
 <div align="center">
   <a href="https://github.com/devluciano">
