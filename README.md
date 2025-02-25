@@ -1,4 +1,4 @@
-### Olá sou Luciano Silva 👋
+### Olá sou Luciano Silva 👋✅🏆
 
 
 - 🛠️ Hoje Trabalho como Desenvolvedor Web
@@ -6,7 +6,7 @@
 - 🚀 Pós-Graduado em Análise de Sistemas
 - 🎯 Cursando 2ª Graduação, Curso Bacharelado em Engenharia de Software
 - 👯 Estudando Flutter
--  Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel - CakePhP - Wordpress / C# .Net framework / Angular / TypeScript
+- 📈 Atualmente Desenvolvendo Profissionalmente em: PHP / Laravel - CakePhP - Wordpress / C# .Net framework / Angular / TypeScript
 
 <div align="center">
   <a href="https://github.com/devluciano">
@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluciano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-Minhas Hard Skills 👋
+🔗 Minhas Hard Skills 👋
 
 
 <div style="display: inline_block"><br>
